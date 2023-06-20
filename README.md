@@ -1,5 +1,5 @@
 # nestjs_graphql_apollo_back-end_stack
-Repository containing a docker-compose to create a back-end stack based on NestJS, GraphQL adn Apollo Server as an API
+Repository containing a docker-compose to create a back-end stack based on NestJS, GraphQL and Apollo Server as an API
 # Create a NestJS environnment with a graphQL and Apollo server
 
 This docker-compose install a NestJs environnement wich will be combined with graphQL and Apollo Server as an API wich will handle a mysql Database and other ApiREST.
