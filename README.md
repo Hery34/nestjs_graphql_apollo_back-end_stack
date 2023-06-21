@@ -7,6 +7,7 @@ This docker-compose install a NestJs environnement wich will be combined with gr
 ## First steps :
 - Create the directory from where you will start your project.
 - Move to the created directory
+- Create an app directory for binding the volume
 - Run the following command `docker-compose up`
 - The `node:latest` image is a minimal image that contains only the essential packages needed to run Node.js. This means that you will need to install NestJS manually, but you will have more control over the dependencies that are installed.
 
